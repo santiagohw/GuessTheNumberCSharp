@@ -38,3 +38,4 @@ while (exitGame == false)
 	count++;
 	Console.WriteLine("TRIES: " + count.ToString());
 }
+Console.ReadKey();
